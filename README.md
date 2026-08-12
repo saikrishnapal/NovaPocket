@@ -5,3 +5,14 @@ Unleash total wireless control with Nova Pocket —the ultimate open-source, ult
 ## License and copyright
 My code is licensed under the terms of the MIT License [Copyright (c) 2026 Saikrishna Pal.
 ](LICENSE).
+
+## 🛠️ Hardware Used
+ - ESP32 Microcontroller (30-Pin) $\times$ 1 <br>
+ - nRF24L01+PA+LNA Wireless Transceiver $\times$ 3 <br>
+ - SMA Antenna $\times$ 3 <br>
+ - nRF24L01 Socket Adapter Modules $\times$ 3 <br>
+ - 0.96" OLED Display (I2C) $\times$ 1 <br>
+ - Push Buttons $\times$ 5 <br>
+ - TP4056 Lithium Battery Charger Module $\times$ 1 <br>
+ - Capacitor 10μf 50v  $\times$ 3 (Optional) <br>
+ - LM2596S DC-DC Buck Converter $\times$ 1 (Optional) <br>
