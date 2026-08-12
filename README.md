@@ -1,1 +1,3 @@
 # NovaPocket
+
+Unleash total wireless control with Nova Pocket —the ultimate open-source, ultra-affordable Flipper Zero alternative. Built for hardware hackers and security researchers, this pocket-sized powerhouse lets you audit Wi-Fi networks, run targeted or multi-device BLE proximity tests, and conduct deep signal analysis across 2.4 GHz, Bluetooth, Zigbee, NRF24, and Sub-GHz spectrums. Featuring a fully customizable display—switch effortlessly between sleek high-contrast monochrome and vibrant full-color themes with dynamic brightness control—it’s the ultimate portable toolkit for wireless exploration.
